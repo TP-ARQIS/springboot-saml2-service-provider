@@ -1,9 +1,9 @@
-﻿/*
- * Definição dos Controllers
- *
- * @author Luis
- *
- */
+﻿/**
+  * Definição dos Controllers
+  *
+  * @author Luis
+  *
+  */
 
 package luis.app.controllers;
 
