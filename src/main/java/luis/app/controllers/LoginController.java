@@ -1,10 +1,10 @@
-﻿/**
-  * Definição dos Controllers
-  *
-  * @author Luis
-  *
-  */
-
+/*
+ * Definição dos Controllers
+ *
+ * @author Luis
+ *
+ */
+  
 package luis.app.controllers;
 
 import org.slf4j.Logger;
